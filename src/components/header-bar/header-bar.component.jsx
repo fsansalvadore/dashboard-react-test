@@ -9,7 +9,6 @@ const HeaderBarContainer = styled.div`
   position: relative;
   z-index: 10;
 `
-
 const Logo = styled.img`
   max-width: 40px;
   max-height: 40px;
